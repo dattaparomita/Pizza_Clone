@@ -1,5 +1,5 @@
 🍕 Pizza Pie Landing Page: 
-A modern, responsive landing page for a pizza restaurant called Pizza Pie. This project features a clean UI with a focus on high-quality food photography and clear call-to-action buttons.
+         A modern, responsive landing page for a pizza restaurant called Pizza Pie. This project features a clean UI with a focus on high-quality food photography and clear call-to-action buttons.
 
 Key Features:
 Responsive Navigation: A clean header with links for Home, About, Menu, Service, and Contact that adapts to different screen sizes.
